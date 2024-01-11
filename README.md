@@ -11,4 +11,6 @@
 10.Generating insights from charts
 11.Export Report to Web
 
+https://app.powerbi.com/view?r=eyJrIjoiYjljOWRlNzEtZDg2Yy00ODVkLThhMDMtMjYzZDRhMjkyM2JkIiwidCI6IjRkNjJiMjYwLTEyYmYtNGMzZi05MzEwLWM0MTExOWY2M2RjZSJ9
+
 ![WhatsApp Image 2023-12-24 at 3 57 38 PM](https://github.com/dsridharit03/Sridhar---IPL_Analysis/assets/114254903/51b34ceb-7712-4952-84f8-35476a9e0f3f)
